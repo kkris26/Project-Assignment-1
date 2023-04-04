@@ -220,7 +220,7 @@ ul {
   background-color: var(--third-color);
   border-radius: 20px;
   border: none;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 .blog .load-more button:hover{
   background-color: #ffc400c6;
